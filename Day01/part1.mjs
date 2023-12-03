@@ -1,6 +1,6 @@
 import fs from 'node:fs'
 
-const input = fs.readFileSync('./input_1').toString()
+const input = fs.readFileSync('./input').toString()
 const words = input.split('\n')
 let result = 0
 
