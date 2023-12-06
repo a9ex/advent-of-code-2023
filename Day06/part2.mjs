@@ -1,3 +1,5 @@
+// the real method was to use the quadriatic formula, but there was no anti-brutforce and the computation was fast.
+
 import fs from 'node:fs'
 
 const input = fs.readFileSync('./input').toString()
